@@ -161,9 +161,6 @@ To configure the Java development environment, write a simple Java program, comp
 - GitHub Desktop
 - GitHub
 
-### Files
-- `week02/HelloWorld.java`
-
 ### How to Run
 1. Open a terminal in the `week02` directory.
 2. Compile using `javac HelloWorld.java`.
@@ -171,3 +168,7 @@ To configure the Java development environment, write a simple Java program, comp
 
 ### Learning Outcome
 I practised creating, compiling and running a Java program and submitting source code through GitHub.
+### Files
+- `week02/HelloWorld.java`
+- `week02/PrintExample.java`
+- `week02/ErrorExample.java`
