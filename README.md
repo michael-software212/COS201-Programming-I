@@ -60,3 +60,87 @@ Each program was tested with sample inputs to confirm that the calculations prod
 Learning Outcome
 
 I practised using Java variables, data types, arithmetic expressions, keyboard input and formatted output to solve basic programming problems.
+
+
+
+
+
+---
+
+Week 1: Introduction to Programming and Problem-Solving
+
+Practical Exercise
+
+Created and executed my first Java programme using Java output statements.
+
+Programme of Study
+
+Software Engineering
+
+Course Details
+
+COS 201 - Computer Programming I
+
+Importance of Programming to Software Engineering
+
+1. Programming helps software engineers develop functional applications.
+2. It helps in identifying problems, solving them and debugging software.
+3. It enables the design, testing and maintenance of reliable software systems.
+
+Personal Learning Goal￼
+
+Week 1: Introduction to Programming and Problem-Solving
+
+Practical Exercise
+
+Created and executed my first Java programme using Java output statements.
+
+Programme of Study
+
+Software Engineering
+
+Course Details
+
+COS 201 - Computer Programming I
+
+Importance of Programming to Software Engineering
+
+Programming helps software engineers develop functional applications.
+
+It helps in identifying problems, solving them and debugging software.
+
+It enables the design, testing and maintenance of reliable software systems.
+
+Personal Learning Goal
+
+My goal is to develop strong Java programming skills and learn how to design, develop and maintain reliable software applications.
+
+Programme File
+
+week01/FirstProgram.java
+
+Skills Practised
+
+Java class and main method
+
+Output statements
+
+Compilation and execution
+
+Problem-solving
+
+GitHub version control
+
+My goal is to develop strong Java programming skills and learn how to design, develop and maintain reliable software applications.
+
+Programme File
+
+- "week01/FirstProgram.java"
+
+Skills Practised
+
+- Java class and main method
+- Output statements
+- Compilation and execution
+- Problem-solving
+- GitHub version control
